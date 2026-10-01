@@ -1,0 +1,6 @@
+{
+  "name": "Diagnóstico Cidadão - Requalificação da Rua 13 de Maio",
+  "description": "Dashboard interativo de dados da escuta popular e percepção cidadã para a requalificação urbana da Rua 13 de Maio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
